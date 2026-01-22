@@ -17,6 +17,6 @@ User Dashboard: Allows users to view their disposal history, track progress, and
 Carbon Emission Calculator: Calculates the environmental impact of improper disposal versus proper methods, showcasing the benefits of responsible waste management.
 
 **By,
-  Nithya HN
+  Pavitra M Gabigol
 **
 
